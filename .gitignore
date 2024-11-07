@@ -3,4 +3,3 @@
 #node modules
 # Ignore all node_modules folders anywhere in the project
 node_modules/
-.gitignore
